@@ -1,5 +1,4 @@
 # Cloud
-
 This folder holds cloud-specific tooling, scripts, and write-ups for common offensive operations across major cloud providers. The material is organized into provider subfolders (`AWS`, `Azure`, `GCP`).
 
 ## Safety & Legal

@@ -1,5 +1,4 @@
 # Active Directory (AD)
-
 This folder contains scripts, notes, and tools focused on Active Directory enumeration, privilege escalation, lateral movement, and persistence techniques used during red-team engagements and security research.
 
 ## Safety & Legal
