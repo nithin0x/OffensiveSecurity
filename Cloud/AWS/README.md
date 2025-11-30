@@ -3,6 +3,3 @@ This folder contains AWS-specific scripts, notes, and examples for enumeration, 
 
 ## Safety & Legal
 Test only in authorized accounts or isolated labs. Avoid running destructive commands.
-
-## Contributing
-Add scripts under `enumeration/`, `privesc/`, `persistence/`, and `exfiltration/` with clear usage examples.
